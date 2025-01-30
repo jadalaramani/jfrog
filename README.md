@@ -1,4 +1,5 @@
-# jfrog ![Build Status](https://your-jfrog-instance/artifactory/api/build/my-project/latestBadge)
+# jfrog ![JFrog Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Jfrog_logo.svg/1200px-Jfrog_logo.svg.png)
+
 
 
 docker build -t ramanijadala/jfrog:latest . 
