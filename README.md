@@ -1,5 +1,5 @@
-# jfrog
-![Xray Security Status](https://your-jfrog-instance/xray/api/vulnerabilities/my-project/badge)
+# jfrog ![Build Status](https://your-jfrog-instance/artifactory/api/build/my-project/latestBadge)
+
 
 docker build -t ramanijadala/jfrog:latest . 
 docker run -itd --name jfrog -p 8081:8081 ramanijadala/jfrog:latest
