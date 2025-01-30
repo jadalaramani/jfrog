@@ -1,6 +1,7 @@
 # jfrog 
 
 docker build -t ramanijadala/jfrog:latest . 
+
 docker run -itd --name jfrog -p 8081:8081 ramanijadala/jfrog:latest
 
 # Docker_installations on Ubuntu
