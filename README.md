@@ -1,6 +1,4 @@
-# jfrog ![JFrog Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Jfrog_logo.svg/1200px-Jfrog_logo.svg.png)
-
-
+# jfrog 
 
 docker build -t ramanijadala/jfrog:latest . 
 docker run -itd --name jfrog -p 8081:8081 ramanijadala/jfrog:latest
